@@ -1,0 +1,16 @@
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\obj\Debug\net5.0\Tamagucci.csproj.AssemblyReference.cache
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\obj\Debug\net5.0\Tamagucci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\obj\Debug\net5.0\Tamagucci.AssemblyInfoInputs.cache
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\obj\Debug\net5.0\Tamagucci.AssemblyInfo.cs
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\obj\Debug\net5.0\Tamagucci.csproj.CoreCompileInputs.cache
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\bin\Debug\net5.0\Tamagucci.exe
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\bin\Debug\net5.0\Tamagucci.deps.json
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\bin\Debug\net5.0\Tamagucci.runtimeconfig.json
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\bin\Debug\net5.0\Tamagucci.runtimeconfig.dev.json
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\bin\Debug\net5.0\Tamagucci.dll
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\bin\Debug\net5.0\ref\Tamagucci.dll
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\bin\Debug\net5.0\Tamagucci.pdb
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\obj\Debug\net5.0\Tamagucci.dll
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\obj\Debug\net5.0\ref\Tamagucci.dll
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\obj\Debug\net5.0\Tamagucci.pdb
+C:\Programmering2\tamagucci\Tamagucci\Tamagucci\obj\Debug\net5.0\Tamagucci.genruntimeconfig.cache
